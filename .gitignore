@@ -1,6 +1,6 @@
 lib/
 *.dll
-*.exe
+
 results/
 good_pincodes.txt
 data/india-source.csv
